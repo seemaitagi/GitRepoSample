@@ -14,7 +14,7 @@ public class Samplegitprg {
 			else {
 				map.put(c, 1);
 				
-			}
+			} 
 			
 		}
 		
